@@ -1,7 +1,7 @@
 # The basic program to demonstrate Alert Dialog Activity in Android.
 
 ## MainActivity.java
-> 
+```
     package com.example.dialogactivity;
 
     import android.annotation.SuppressLint;
@@ -41,12 +41,12 @@
             alertDialog.show();
         }
     }
-
+```
 
 
 ## AndroidManifest.xml
 
->
+```
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
@@ -77,9 +77,10 @@
     </application>
 
 </manifest>
+```
 
 
-Repo Link : [DialogActivity](https://github.com/amanmullaofficial/DialogActivity)
+**Repo Link :** [DialogActivity](https://github.com/amanmullaofficial/DialogActivity)
 
 OR
 
