@@ -88,6 +88,7 @@ Import project as vcs from here :
 >
 https://github.com/amanmullaofficial/DialogActivity.git
 
+Don't know how to import from VCS : [Click Here !](https://github.com/amanmullaofficial/Android_VCS)
 
 ### Project Snapshots
 
